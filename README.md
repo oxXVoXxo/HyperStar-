@@ -38,4 +38,4 @@
 ---
 
 ## 📡 Connect with Me  
-👾 **GitHub:** [stellarX](https://github.com/oxXVoXxo)
+👾 **GitHub:** [HyperStar](https://github.com/oxXVoXxo)

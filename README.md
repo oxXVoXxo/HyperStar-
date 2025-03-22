@@ -1,4 +1,4 @@
-<h1 align="center">⚡ StellarX ⚡</h1>  
+<h1 align="center">⚡ HyperStar ⚡</h1>  
 
 <p align="center">
   <img src="https://i.imgur.com/zpCLDoD.gif" width="500"/>
@@ -38,4 +38,4 @@
 ---
 
 ## 📡 Connect with Me  
-👾 **GitHub:** [stellarX](https://github.com/stellarX)
+👾 **GitHub:** [stellarX](https://github.com/HyperStar)
